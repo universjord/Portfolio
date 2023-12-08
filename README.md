@@ -2,7 +2,7 @@
 
 # Mon portfolio
 
-Bienvenue sur mon portfolio ! Ce site a été créé pour mettre en avant mes compétences, projets, expériences professionnelles et les services que j'offre. Vous pouvez le visualiser directement sur ce lien ( ).
+Bienvenue sur mon portfolio ! Ce site a été créé pour mettre en avant mes compétences, projets, expériences professionnelles et les services que j'offre. Vous pouvez le visualiser directement sur ce lien [ici](https://universjord.github.io/Portfolio/).
 
 ## Technologies Utilisées
 
